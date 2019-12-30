@@ -3,6 +3,7 @@
 
 
 **Pokemon Sword/Shiled only |  ポケモン剣盾だけ**
+
 **Japanese Only | 日本語だけ**
 
 
