@@ -9,7 +9,7 @@
 ## Usage
 
 - Install workflow
-- `h  pokeindex_number`
+- `h  Pokédex_number`
 
 
 
