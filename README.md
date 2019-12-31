@@ -9,7 +9,7 @@
 
 ## Usage
 
-- Install workflow
+- Install workflow from [here](https://github.com/kanoto/pokemon_hidden_ability_alfred_workflow/releases)
 - `h  Pokédex_number`
 
 
