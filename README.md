@@ -1,4 +1,4 @@
-# pokemon (sword/shield) hidden ability query workflow |ポケモン剣盾(ソードシールド)夢特性検索workflow
+# pokemon (sword/shield) hidden ability query workflow |ポケモン剣盾(ソードシールド)夢特性検索ワークフロー
 
 
 
@@ -18,3 +18,6 @@ For example, to check hidden ability of Pikachu, type:
 
 `h 194`
 
+it will show:
+
+![img](https://github.com/kanoto/pokemon-hidden-ability-alfred-workflow/blob/master/example.png)
